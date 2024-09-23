@@ -1,4 +1,4 @@
-package efi
+package pix
 
 import (
 	"fmt"
